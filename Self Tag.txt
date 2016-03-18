@@ -1,0 +1,18 @@
+Here's a complete list of self-closing tags for HTML5.
+
+<area />
+<base />
+<br />
+<col />
+<command />
+<embed />
+<hr />
+<img />
+<input />
+<keygen />
+<link />
+<meta />
+<param />
+<source />
+<track />
+<wbr />
