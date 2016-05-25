@@ -1,0 +1,12 @@
+body{
+    padding: 8px; text-align: right; color: gray; font-family: sans-serif; font-size: 13px;
+}
+a{
+   text-decoration: none; color: black;
+}
+p{
+ text-align: center;
+}
+p{
+    padding: 1px; font-size: 16px; color:#4285f4;
+}
