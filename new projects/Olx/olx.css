@@ -1,0 +1,122 @@
+#box01{
+    position: absolute;
+    left: 220px;
+    top: 1px;
+}
+#box02{
+    position: absolute;
+    left: 320px;
+    top: 30px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color:#414141;
+}
+#box03{
+    position: absolute;
+    left: 920px;
+    top: 55px;
+    cursor: pointer;
+}
+#box04{
+    position: absolute;
+    top: 30px;
+    left: 960px;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #2965BE;
+}
+:hover#box04{
+    color: orangered;
+}
+#box05{
+    position: absolute;
+    left: 220px;
+    top: 55px;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+#box06{
+    position: absolute;
+    left: 220px;
+    top: 105px;
+    height: 70px;
+    width: 1020px;
+    border: 2px solid #B0CFDA;
+    background-color: #B0CFDA;
+    border-radius: 5px;
+}
+#box07{
+    position: absolute;
+    left: 1080px;
+    top: 45px;
+    color: white;
+    background-color: #ff7700; 
+    border-radius: 5px;
+    float: right;
+    padding: 8px 12px 8px 8px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+}
+#box08{
+    position: absolute;
+    left: 250px;
+    top: 125px;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 3px;
+    height: 35px;
+    width: 250px
+}
+#box09{
+    position: absolute;
+    left: 260px;
+    top: 135px;
+}
+#box10{
+    position: absolute;
+    left: 280px;
+    top: 120px;
+    font-family: sans-serif;
+}
+#box11{
+    position: absolute;
+    left: 335px;
+    top: 120px;
+    font-family: sans-serif;
+    color: darkgray;
+}
+#box12{
+    position: absolute;
+    left: 480px;
+    top: 115px;
+    cursor: pointer;
+    font-family: sans-serif;
+    color: #2965BE;
+    font-size: 20px;
+}
+#box13{
+    position: absolute;
+    left: 520px;
+    top: 125px;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 3px;
+    height: 35px;
+    width: 500px
+}
+#box14{
+    position: absolute;
+    left: 530px;
+    top: 130px;
+}
+#box15{
+    position: absolute;
+    left: 575px;
+    top: 125px;
+    font-family: sans-serif;
+    color: darkgray;
+}
