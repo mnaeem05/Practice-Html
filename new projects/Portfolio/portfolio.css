@@ -1,0 +1,237 @@
+body{
+    background-image: url(\header.jpg);
+    background-size: 1500px 800px;
+    background-repeat: no-repeat;
+}
+#box01{
+    border-style: solid;
+    border-width: 2px;
+    background-color:#807A78;
+    color: #807A78;
+    width: 1400px;
+    position: absolute;
+    top: 40px;
+}
+#box02{
+    color: rgba(255,255,255,.7);
+    text-decoration: none;
+    position: absolute;
+    left: 1100px;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+
+li{
+    list-style-type: none;
+}
+#box03{
+    color: rgba(255,255,255,.7);
+    text-decoration: none;
+    position: absolute;
+    left: 1170px;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+#box04{
+    color: rgba(255,255,255,.7);
+    text-decoration: none;
+    position: absolute;
+    left: 1240px;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+#box05{
+    color: rgba(255,255,255,.7);
+    text-decoration: none;
+    position: absolute;
+    left: 1350px;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+#box002{
+    color: whitesmoke;
+    position: absolute;
+    left: 50px;
+    top: -10px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+#box06{
+    color: floralwhite;
+    text-decoration: none;
+    position: absolute;
+    left: 400px;
+    top: 100px;
+    font-weight: bold;
+    font-size: 150px;
+    font-family: sans-serif;
+}
+#box07{
+    color: floralwhite;
+    text-decoration: none;
+    position: absolute;
+    left: 410px;
+    top: 320px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#box08{
+    color: floralwhite;
+    text-decoration: none;
+    position: absolute;
+    left: 310px;
+    top: 400px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#box09{
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    top: 320px;
+}
+#box10{
+    height: 870px;
+    width: 1423px;
+    position: relative;
+    left: -10px;
+    top: 784px;
+    border: 100px;
+    background-color: #222222;
+    border: 1px solid #222222;
+}
+#box11{
+    position: absolute;
+    top: 810px;
+    left: 10px;
+}
+#box12{
+    position: absolute;
+    top: 810px;
+    left: 480px;
+}
+#box13{
+    position: absolute;
+    top: 810px;
+    left: 950px;
+}
+#box14{
+    position: absolute;
+    top: 1080px;
+    left: 10px;
+}
+#box15{
+    position: absolute;
+    top: 1080px;
+    left: 480px;
+}
+#box16{
+    position: absolute;
+    top: 1080px;
+    left: 950px;    
+}
+:hover#box11{	    box-shadow: 0 0 40px 5px dodgerblue;    }
+:hover#box12{	    box-shadow: 0 0 40px 5px dodgerblue;    }
+:hover#box13{	    box-shadow: 0 0 40px 5px dodgerblue;    }
+:hover#box14{	    box-shadow: 0 0 40px 5px dodgerblue;    }
+:hover#box15{	    box-shadow: 0 0 40px 5px dodgerblue;    }
+:hover#box16{	    box-shadow: 0 0 40px 5px dodgerblue;    }
+:hover#box02{ color: #F05F40;}
+:hover#box03{ color: #F05F40;}
+:hover#box04{ color: #F05F40;}
+:hover#box05{ color: #F05F40;}
+#box17{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    left: 580px;
+    top: 1400px;
+    font-size: 30px;
+}
+#box18{
+    border-style: solid;
+    border-width: 2px;
+    background-color: orangered;
+    color: orangered;
+    width: 300px;
+    left: 590px;
+    position: absolute;
+    top: 1450px;   
+}
+#box19{
+    font-family: sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    left: 420px;
+    top: 1450px;
+    font-size: 15px;
+}
+#box20{
+    font-family: sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    left: 580px;
+    top: 1470px;
+    font-size: 15px;
+}
+
+#box21{
+    position: absolute;
+    top: 1535px;
+    height: 80px;
+    left: 250px;
+}
+#box22{
+    position: absolute;
+    top: 1530px;
+    height: 90px;
+    left: 340px;
+}
+#box23{
+    position: absolute;
+    top: 1540px;
+    height: 60px;
+    left: 450px;
+}
+#box24{
+    position: absolute;
+    top: 1540px;
+    height: 60px;
+    left: 550px;
+}
+#box25{
+    position: absolute;
+    top: 1535px;
+    height: 80px;
+    left: 650px;
+}
+#box26{
+    position: absolute;
+    top: 1535px;
+    height: 70px;
+    left: 750px;
+}
+#box27{
+    position: absolute;
+    top: 1550px;
+    left: 1000px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: whitesmoke;
+    font-size: 20px;
+}
+#box28{
+    position: absolute;
+    top: 1535px;
+    height: 80px;
+    left: 150px;
+}
+#box29{
+    position: absolute;
+    left: 200px;
+    top: 10px;
+}
