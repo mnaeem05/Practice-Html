@@ -1,0 +1,285 @@
+#box02{
+        color: #117A65;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 10px;
+}
+
+#box03{
+        color: navy;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 90px;
+}
+#box04{
+        color: indianred;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        position: relative;
+        left: 150px;
+}
+#box05{
+        color: darkgoldenrod;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 230px;
+}
+#box06{
+        color: blueviolet;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 300px;
+}
+#box07{
+        color: cadetblue;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 370px;
+}
+#box08{
+        color: firebrick;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 440px;
+}
+#box09{
+        color: grey;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 510px;
+}
+#box10{
+        color: purple;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 580px;
+}
+#box11{
+        color: green;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 650px;
+}
+#box12{
+        color: darkorange;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 720px;
+}
+#box13{
+        color: darkblue;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 800px;
+}
+#box14{
+        color: black;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 10px;
+        top: -2px;
+        cursor: pointer;
+}
+#box15{
+        color: black;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 90px;
+        top: -2px;
+        cursor: pointer;
+}
+#box16{
+        color: black;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 160px;
+        top: -2px;
+        cursor: pointer;
+}
+#box17{
+        color: black;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 230px;
+        top: -2px;
+        cursor: pointer;
+}
+#box18{
+        color: black;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 300px;
+        top: -2px;
+        cursor: pointer;
+}
+#box19{
+        color: black;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 370px;
+        top: -2px;
+        cursor: pointer;
+}
+#box20{
+        color: black;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 440px;
+        top: -2px;
+        cursor: pointer;
+}
+#box21{
+        color: black;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 510px;
+        top: -2px;
+        cursor: pointer;
+}
+#box22{
+        color: black;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 580px;
+        top: -2px;
+        cursor: pointer;
+}
+#box23{
+        color: black;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 650px;
+        top: -2px;
+        cursor: pointer;
+}
+#box24{
+        color: black;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 720px;
+        top: -2px;
+        cursor: pointer;
+}
+#box25{
+        color: black;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 800px;
+        top: -2px;
+        cursor: pointer;
+}
+#box26{
+        border: 2px solid rebeccapurple;
+        position: absolute;
+        top: 40px;
+        left: 5px;
+        height: 300px;
+}
+#box27{
+        border: 2px solid rebeccapurple;
+        position: absolute;
+        top: 40px;
+        left: 5px;
+        width: 860px;
+}
+#box28{
+        border: 2px solid rebeccapurple;
+        position: absolute;
+        top: 40px;
+        left: 865px;
+        height: 300px;
+}
+#box29{
+        border: 2px solid rebeccapurple;
+        position: absolute;
+        top: 340px;
+        left: 5px;
+        width: 860px;
+}
+#box30{
+         color: green;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: bold;
+        font-size: 30px;
+        position: absolute;
+        left: 270px;
+        cursor: pointer;       
+}
+:hover#box30{
+        color: orangered;
+}
+#box31{
+        border: 2px solid royalblue;
+        position: absolute;
+        top: 1px;
+        left: 5px;
+        height: 20px;
+}
+#box32{
+        border: 2px solid royalblue;
+        position: absolute;
+        top: 1px;
+        left: 5px;
+        width: 860px;
+}
+#box33{
+        border: 2px solid royalblue;
+        position: absolute;
+        top: 1px;
+        left: 865px;
+        height: 20px;
+}
+#box34{
+        border: 2px solid royalblue;
+        position: absolute;
+        top: 22px;
+        left: 5px;
+        width: 860px;
+}

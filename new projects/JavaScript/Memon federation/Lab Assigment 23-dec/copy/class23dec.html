@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Class 23 Dec</title>
+    <link rel="stylesheet" href="class.css">
+</head>
+<body>
+            <script>
+            // var student=[];//literal notation
+
+            // var arr2 = new Array();//object notation
+
+            //  var subjects=["Math", "Urdu", "English", "Physics", "Stats"];
+            //  document.write("<h1 id='box01'> "+subjects+", Type Of Array: "+typeof subjects[0]+" </h1>")
+            
+            // var subjectsNumber=[85, 63, 74, 58, 78];
+            //  document.write("<h1 id='box01'> "+subjectsNumber+", Type Of Array: "+typeof subjectsNumber[1]+"  </h1>")
+
+            //  var boleans=[true, false];
+            //  document.write("<h1 id='box01'> "+boleans+", Type Of Array: "+typeof boleans[0]+"  </h1>")
+
+            //  var mixed=["one", "two", true, 25, 62, NaN,  false];
+            //  document.write("<h1 id='box01'> "+mixed+", Type Of Array: "+typeof mixed[0]+"   </h1>")
+
+            //  var education=["SSC", "HSC" , "BCS", "BS", "BCOM", "MS", "M.Phil", "PHD"];
+            //  document.write("<h1 id='box01'> Qualifications </h1>")
+            //  document.write("<h3 id='box01'><ol> <li>"+education[0]+"</li> <li>"+education[1]+"</li> <li>"+education[2]+"</li> <li>"+education[3]+"</li> <li>"+education[4]+"</li> <li>"+education[5]+"</li> <li>"+education[6]+"</li> <li>"+education[7]+"</li> </ol></h3>")
+
+            //  var studentName=["Naeem", "Ali", "Zeeshan"];
+            //  var studentScore=[418, 355, 342];
+            //  document.write("<h2 id='box01'> Score of "+studentName[0]+" is "+studentScore[0]+". Percentage: "+studentScore[0]/500*100+"%</h2>")
+            //  document.write("<h2 id='box01'> Score of "+studentName[1]+" is "+studentScore[1]+". Percentage: "+studentScore[1]/500*100+"%</h2>")
+            //  document.write("<h2 id='box01'> Score of "+studentName[2]+" is "+studentScore[2]+". Percentage: "+studentScore[2]/500*100+"%</h2>")
+
+            //  var colorNames=["Red", "Green", "Blue", "Yellow"];
+            //  var userColor=prompt("What color do you want to add in the beginning ?");
+            //  colorNames.unshift(userColor);
+            //  document.write("<h2 id='box01'> "+colorNames+" </h2>");
+            //  var userColor=prompt("What color do you want to add in the ending ?");
+            //  colorNames.push(userColor);
+            //  document.write("<h2 id='box01'> "+colorNames+" </h2>");
+            //  colorNames.unshift("Brown", "Black");
+            //  document.write("<h2 id='box01'> "+colorNames+" </h2>");
+            //  colorNames.shift(userColor);
+            //  document.write("<h2 id='box01'> "+colorNames+" </h2>");
+            //  colorNames.pop(userColor);
+            //  document.write("<h2 id='box01'> "+colorNames+" </h2>");
+            //  var userColor1=prompt("At which index you want to add a color ?");
+            //  var userColor2=prompt("And color name also?");
+            //  colorNames.splice(userColor1, 0, userColor2);
+            //  document.write("<h2 id='box01'> "+colorNames+" </h2>");            
+            //  var userColor3=prompt("At which index you want to delet a color ?");
+            //  var userColor4=prompt("And color name also?");
+            //  colorNames.splice(0, userColor3, userColor4);
+            //  document.write("<h2 id='box01'> "+colorNames+" </h2>");
+
+            // var studentNewscores = [430, 154, 85, 282, 389];
+            // document.write("<h2 id='box01'> Scores of Students: "+studentNewscores+" </h2>")
+            // document.write("<h2 id='box01'> Ordered Scores of Students: "+studentNewscores.sort()+"  </h2>")
+            // document.write("<h2 id='box01'> Ordered Scores of Students: "+studentNewscores.sort(function(a, b){return a-b})+"  </h2>")
+
+            // var cities = ["Karachi", "Lahore", "Islamabad", "Quetta", "Peshawar"];
+            // document.write("<h2 id='box01'> Cities List: <br/> "+cities+" </h2>")
+            
+            // var selectedCities = cities.slice(2, 4);
+            // document.write("<h2 id='box01'> Selected cities List: <br/> "+selectedCities+" </h2>")
+
+            // var arr = ["This", " is ", " my ", " cat."];
+            // document.write("<h2 id='box01'> Array: <br/> "+arr+" </h2>")
+            // document.write("<h2 id='box01'> String: <br/> "+arr.join(" ")+" </h2>")
+            
+            // var devices = ["keyboard", "mouse", "printer", "monitor"];
+            // document.write("<h4 id='box02'> Devices: <br/> "+devices+" </h4>")
+            // document.write("<h4 id='box01'> Out: <br/> "+devices[0]+" </h4>")
+            // document.write("<h4 id='box01'> Out: <br/> "+devices[1]+" </h4>")
+            // document.write("<h4 id='box01'> Out: <br/> "+devices[2]+" </h4>")
+            // document.write("<h4 id='box01'> Out: <br/> "+devices[3]+" </h4>")
+      
+            // document.write("<h4 id='box02'> Devices: <br/> "+devices+" </h4>")
+            // document.write("<h4 id='box01'> Out: <br/> "+devices[3]+" </h4>")
+            // document.write("<h4 id='box01'> Out: <br/> "+devices[2]+" </h4>")
+            // document.write("<h4 id='box01'> Out: <br/> "+devices[1]+" </h4>")
+            // document.write("<h4 id='box01'> Out: <br/> "+devices[0]+" </h4>")
+      
+            var phoneManf = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
+
+        //     document.getElementById("manufacturers")
+        //    document.write("<h2 id='box01'> Select Any Manufacture: JavaScript <select name=manufacturers id=manufacturers><option value=Select selected id=box03> --Select-- </option><option value=phoneManf[0]> "+phoneManf[0]+" </option> <option value=phoneManf[1]> "+phoneManf[1]+" </option><option value=phoneManf[2]> "+phoneManf[2]+" </option><option value=phoneManf[3]> "+phoneManf[3]+" </option><option value=phoneManf[4]> "+phoneManf[4]+" </option><option value=phoneManf[5]> "+phoneManf[5]+" </option></h2></select>")//
+        
+// document.write("<h2 id='box01'> Select Any Manufacture: JavaScript <select><option value=Select id=box001> --Select-- </option><option value = "+ phoneManf[0]+">"+ phoneManf[0]+"</option><option value = "+ phoneManf[1]+">"+ phoneManf[1]+"</option>	<option value = "+ phoneManf[2]+">"+ phoneManf[2]+"</option>	<option value = "+ phoneManf[3]+">"+ phoneManf[3]+"</option>	<option value = "+ phoneManf[4]+">"+ phoneManf[4]+"</option>	<option value = "+ phoneManf[5]+">"+ phoneManf[5]+"</option></select>");
+
+var callManf = prompt("Please Enter Any Manufacture")
+// switch(callManf.toUpperCase()){
+// }
+// switch(callManf.toLowerCase()){
+// }
+// switch(callManf.toProperCase()){
+// }
+if (callManf.length <= 4){
+    alert ("Please Enter Correct Manufacture.")
+}
+if (callManf === "apple"){
+    document.write("<h2 id='box01'>  Yes  <span>"+callManf+"</span> is available in our stock. </h2>")}
+    else if (callManf === "samsung"){
+    document.write("<h2 id='box01'>  Yes  <span>"+callManf+"</span> is available in our stock. </h2>")}
+    else if (callManf === "motorola"){
+    document.write("<h2 id='box01'>  Yes  <span>"+callManf+"</span> is available in our stock. </h2>")}
+    else if (callManf === "nokia"){
+    document.write("<h2 id='box01'>  Yes  <span>"+callManf+"</span> is available in our stock. </h2>")}
+    else if (callManf === "sony"){
+    document.write("<h2 id='box01'>  Yes  <span>"+callManf+"</span> is available in our stock. </h2>")}
+    else if (callManf === "haier"){
+    document.write("<h2 id='box01'>  Yes  <span>"+callManf+"</span> is available in our stock. </h2>")}
+    else if (callManf === ""){
+    document.write("<h2 id='box01'>  Please Enter Correct Manufacture. <span>"+callManf+"</span> </h2>")}
+    else  
+    {document.write("<h2 id='box01'>  Sorry <span>"+callManf+"</span> is not available in our stock. </h2>")}
+        </script>
+            
+            <!--<h2 id='box01'>Select Any Manufacture: HTML
+        <select name="manufacturers" id="manufacturers"> <option value="select" selected id="box03">--Select--</option>
+        <option value="Apple">Apple</option>
+        <option value="Samsung">Samsung</option>
+        <option value="Motorola">Motorola</option>
+        <option value="Nokia">Nokia</option>
+        <option value="Sony">Sony</option>
+        <option value="Haier">Haier</option>
+        </h2>-->
+        </select>
+
+
+</body>
+</html>

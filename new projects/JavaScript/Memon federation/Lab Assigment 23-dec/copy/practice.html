@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Case Sensitive</title>
+    <link rel="stylesheet" href="practice.css">
+</head>
+<body>
+            <script>
+                //Example of Lower case if our string is lowercase we uese .toLowerCase if our string is upper case we use to.UpperCase//
+                var callManf = prompt("Please Enter Any Manufacture").toLowerCase()
+
+// switch(callManf.toUpperCase()){
+// }
+// switch(callManf.toLowerCase()){
+// }
+// switch(callManf.toProperCase()){
+// }
+
+if (callManf.length <= 4){
+    alert ("Please Enter Correct Manufacture.")
+}
+if (callManf === "apple"){
+    document.write("<h2 id='box01'>  Yes  <span id='box02'>"+callManf+"</span> is available in our stock. </h2>")}
+    else if (callManf === "samsung"){
+    document.write("<h2 id='box01'>  Yes  <span id='box02'>"+callManf+"</span> is available in our stock. </h2>")}
+    else if (callManf === "motorola"){
+    document.write("<h2 id='box01'>  Yes  <span id='box02'>"+callManf+"</span> is available in our stock. </h2>")}
+    else if (callManf === "nokia"){
+    document.write("<h2 id='box01'>  Yes  <span id='box02'>"+callManf+"</span> is available in our stock. </h2>")}
+    else if (callManf === "sony"){
+    document.write("<h2 id='box01'>  Yes  <span id='box02'>"+callManf+"</span> is available in our stock. </h2>")}
+    else if (callManf === "haier"){
+    document.write("<h2 id='box01'>  Yes  <span id='box02'>"+callManf+"</span> is available in our stock. </h2>")}
+    else if (callManf === ""){
+    document.write("<h2 id='box01'>  Please Enter Correct Manufacture. <span>"+callManf+"</span> </h2>")}
+    else  
+    {document.write("<h2 id='box01'>  Sorry <span id='box02'>"+callManf+"</span> is not available in our stock. </h2>")}
+        </script>

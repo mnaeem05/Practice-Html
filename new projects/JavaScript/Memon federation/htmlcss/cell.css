@@ -1,0 +1,9 @@
+blockquote:before {
+    content: '{';
+    color: #b12930;
+    font-size: 100%;
+    position: absolute;
+    font-family: Georgia,serif;
+    top: 15px;
+    left: 40px;;
+}

@@ -1,0 +1,19 @@
+#box01{
+    color: navy;
+    font-family: sans-serif;
+}
+#box02{
+    color: green;
+    font-family: sans-serif;
+}
+#box03{
+    color: green;
+    font-family: sans-serif;
+}
+select{
+    font-family: cursive;
+    font-size: 15px;
+    color: saddlebrown;
+    border: 2px solid darkred;
+    border-radius: 5px;
+}
