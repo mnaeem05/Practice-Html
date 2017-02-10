@@ -96,7 +96,7 @@ li{
     top: 320px;
 }
 #box10{
-    height: 870px;
+    height: 1000px;
     width: 1423px;
     position: relative;
     left: -10px;
@@ -234,4 +234,105 @@ li{
     position: absolute;
     left: 200px;
     top: 10px;
+}
+#box30{
+    position: absolute;
+    top: 1540px;
+    height: 70px;
+    width: 140px;
+    left: 5px;
+} 
+.button1 a{
+    position: absolute;
+    top: 1650px;
+    left: 215px;
+ display: block;
+  height: 40px;
+  width: 120px;
+  background: #00b7ea;
+    /*TYPE*/
+  color: white;
+  font: 17px/40px Helvetica, Verdana, sans-serif;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+.button2 a{
+    position: absolute;
+    top: 1650px;
+    left: 350px;
+ display: block;
+  height: 40px;
+  width: 120px;
+  background: #00b7ea;
+    /*TYPE*/
+  color: white;
+  font: 17px/40px Helvetica, Verdana, sans-serif;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+    border-radius: 10px;
+
+}
+.button3 a{
+    position: absolute;
+    top: 1650px;
+    left: 485px;
+ display: block;
+  height: 40px;
+  width: 120px;
+  background: #00b7ea;
+    /*TYPE*/
+  color: white;
+  font: 15px/40px Helvetica, Verdana, sans-serif;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+    border-radius: 10px;
+
+}
+.button4 a{
+    position: absolute;
+    top: 1650px;
+    left: 620px;
+ display: block;
+  height: 40px;
+  width: 120px;
+  background: #00b7ea;
+    /*TYPE*/
+  color: white;
+  font: 15px/40px Helvetica, Verdana, sans-serif;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+    border-radius: 10px;
+
+}
+.button5 a{
+    position: absolute;
+    top: 1650px;
+    left: 750px;
+ display: block;
+  height: 40px;
+  width: 120px;
+  background: #00b7ea;
+    /*TYPE*/
+  color: white;
+  font: 15px/40px Helvetica, Verdana, sans-serif;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+    border-radius: 10px;
+
 }
