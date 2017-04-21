@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Website Template</title>
+    <link rel="stylesheet" href="temp.css">
+
+</head>
+<body>
+    <div class="box02"></div>
+    <marquee behavior="" direction="top"><h3 id="box01">This is only static website template</h3></marquee>
+    <div class="box03"></div>
+            <img id="box04" src="images\img1.png" alt="logo" height="40px">
+            <p id="box05">Image Logo</p>
+            <a id="box06" href="#home">Home</a>
+            <a id="box07" href="#about">About</a>
+            <a id="box08" href="#services">Services</a>
+            <a id="box09" href="#products">Products</a>
+            <a id="box10" href="#contact">Contact</a>
+            <div id="boxbottom"></div>
+
+
+    <div id="contact">
+        <h1 id="box17">Let's Get In Touch!</h1>
+        <hr id="box18">
+        <h6 id="box19">Ready to start your next project with us? That's great! Give us a call or send us an email and </h6>
+        <h6 id="box20">we will get back to you as soon as possible!</h6>
+<div id="box29">        
+        <a href="https://twitter.com/mnaeem05" target="_blank" > <img id="box21" src=".\images\twitter.png" alt="Twitter" title="Twitter"></a>
+        <a href="https://github.com/mnaeem05" target="_blank" > <img id="box22" src=".\images\github.png" alt="GitHub" title="GitHub"></a>
+        <a href="https://www.instagram.com/mnaeem05/" target="_blank" > <img id="box23" src=".\images\instagram.png" alt="Instagram" title="Instagram"></a>
+        <a href="https://www.facebook.com/mnaeem0334" target="_blank" > <img id="box24" src=".\images\facebook.png" alt="Facebook" title="Facebook"></a>
+        <a href="mailto:mnaeem0334@gmail.com" > <img id="box25" src=".\images\emailus.png" alt="EmailUs" title="EmailUs"></a>
+        <img id="box26" src=".\images\callus.png" alt="Callus" title="Callme">
+        <a href="https://www.linkedin.com/in/muhammadnaeem1" target="_blank" > <img id="box28" src=".\images\linkedin.png" alt="Linkedin" title="Linkedin"></a>
+        <a href="https://www.fiverr.com/mnaeem05" target="_blank" > <img id="box30" src=".\images\fiverr-logo.png" alt="Fiverr" title="Fiverr"></a>
+        
+</div>
+        <p id="box27">+92 334 3604301</p>
+    </div>
+
+
+    <div class="box11"></div>
+    
+    <div style="text-align: center">
+        <div id="slider">
+        <!--</div>
+        <a href="javascript:void(0);" onClick="showNext();" id="box12"> &gt; </a>
+    </div>-->
+    <script>
+        var images = ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"];
+        var totalImages = 6;
+        var currentImage = 0;
+        // showNext();
+        // function showNext() {
+        //     if (currentImage == totalImages) currentImage = 0;
+        //     document.getElementById("slider").innerHTML = "<img src='images/" + images[currentImage] + "' class='setValue' />"
+        //     currentImage++;
+        // }
+
+            function showNext() {
+            if (currentImage == totalImages) currentImage = 0;
+            document.getElementById("slider").innerHTML = "<img src='images/" + images[currentImage] + "' class='setValue' />"
+            currentImage++;
+        }
+        setInterval(function () {
+            showNext();
+        }, 2000);
+
+    </script>
+
+
+
+    <!--Code by Muhammad Naeem-->
+
+</body>
+</html>

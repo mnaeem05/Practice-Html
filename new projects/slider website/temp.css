@@ -1,0 +1,226 @@
+.box02 {
+    width: 1400px;
+    height: 25px;
+    background-color: #3DAE38;
+    border: 1px solid #3DAE38;
+    position: absolute;
+    top: 28px;
+}
+#box01{
+        font-size: 20px;
+        color: antiquewhite;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-decoration: none;
+        text-shadow: papayawhip;
+}
+.box03{
+    width: 1400px;
+    height: 40px;
+    background-color: saddlebrown;
+    border: 1px solid saddlebrown;
+    position: absolute;
+    top: 50px;
+}
+#box04{
+    position: absolute;
+    top: 52px;
+    left: 50px;
+    cursor: pointer;
+
+}
+#box05{
+    position: absolute;
+    top: 38px;
+    cursor: pointer;
+    left: 110px;
+    font-size: 20px;
+    color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#box06{
+    color: antiquewhite;
+    text-decoration: none;
+    position: absolute;
+    left: 900px;
+    top: 65px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: cursive;
+}
+#box07{
+    color: antiquewhite;
+    text-decoration: none;
+    position: absolute;
+    left: 960px;
+    top: 65px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: cursive;
+}
+#box08{
+    color: antiquewhite;
+    text-decoration: none;
+    position: absolute;
+    left: 1020px;
+    top: 65px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: cursive;
+}
+#box09{
+    color: antiquewhite;
+    text-decoration: none;
+    position: absolute;
+    left: 1100px;
+    top: 65px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: cursive;
+}
+#box10{
+    color: antiquewhite;
+    text-decoration: none;
+    position: absolute;
+    left: 1180px;
+    top: 65px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: cursive;
+}
+
+.box11{
+    width: 650px;
+    height: 350px;
+    background-color: floralwhite;
+    border: 2px solid blue;
+    position: absolute;
+    top: 100px;
+    left: 350px;
+}
+.setValue {
+            width: 610px;
+            height: 310px;
+            position: absolute;
+            top: 120px;
+            left: 370px;
+            cursor: pointer;
+        }
+#box12{
+    color: darkred;
+    text-decoration: none;
+    position: absolute;
+    left: 1050px;
+    top: 250px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: cursive;
+}
+#box17{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rebeccapurple;
+    position: absolute;
+    left: 280px;
+    top: 450px;
+    font-size: 30px;
+}
+#box18{
+    border-style: solid;
+    border-width: 2px;
+    background-color: orangered;
+    color: orangered;
+    width: 300px;
+    left: 290px;
+    position: absolute;
+    top: 500px;   
+}
+#box19{
+    font-family: sans-serif;
+    color: rebeccapurple;
+    position: absolute;
+    left: 180px;
+    top: 500px;
+    font-size: 15px;
+}
+#box20{
+    font-family: sans-serif;
+    color: rebeccapurple;
+    position: absolute;
+    left: 300px;
+    top: 520px;
+    font-size: 15px;
+}
+#box21{
+    position: absolute;
+    top: 600px;
+    height: 80px;
+    left: 250px;
+}
+#boxbottom{
+    height: 100px;
+    width: 950px;
+    position: absolute;
+    left: 20px;
+    top: 580px;
+    border: 100px;
+    background-color: #222222;
+    border: 1px solid #222222;
+}
+#box22{
+    position: absolute;
+    top: 600px;
+    height: 90px;
+    left: 340px;
+}
+#box23{
+    position: absolute;
+    top: 600px;
+    height: 60px;
+    left: 450px;
+}
+#box24{
+    position: absolute;
+    top: 600px;
+    height: 60px;
+    left: 550px;
+}
+#box25{
+    position: absolute;
+    top: 600px;
+    height: 80px;
+    left: 650px;
+}
+#box26{
+    position: absolute;
+    top: 600px;
+    height: 70px;
+    left: 750px;
+}
+#box27{
+    position: absolute;
+    top: 600px;
+    left: 800px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: whitesmoke;
+    font-size: 20px;
+}
+#box28{
+    position: absolute;
+    top: 600px;
+    height: 80px;
+    left: 150px;
+}
+
+#box30{
+    position: absolute;
+    top: 600px;
+    height: 40px;
+    left: 20px;
+}
+
+
+
+
+
+
+
+
